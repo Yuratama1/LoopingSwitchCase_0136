@@ -31,6 +31,7 @@ float luasPersegiPanjang(float x, float y){
             case 2 :
                 cout << "Menghitung Luas Lingkaran " << endl;
                 cout << "Masukkan Jari - Jari = ";
+                cout << "Luas Lingkaran = " << luasLingkaran(jejari) << endl;
                 cin >> jejari;
                 break;
             case 3 :
